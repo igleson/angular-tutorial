@@ -3,6 +3,11 @@ function controller($scope) {
 
     $scope.hello = function () {
         alert("igleson")
+    alert("igleson")
+
+        alert("igleson")
+    alert("igleson")
+
         alert("Hello " + $scope.model.user)
     }
 }
